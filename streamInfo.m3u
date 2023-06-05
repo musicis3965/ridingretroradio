@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Entry 1
-http://96.232.177.143:8000/stream
+http://ingest.live365.com:8000/a35614_live
 
 #EXTINF:-1,Entry 2
 https://github.com/musicis3965/ridingretroradio/raw/master/Riding%20Retro%20Radio%20on%20Demand.mp3
