@@ -3,4 +3,7 @@
 http://ingest.live365.com:8000/a35614_live
 
 #EXTINF:-1,Entry 2
-https://github.com/musicis3965/ridingretroradio/raw/master/Riding%20Retro%20Radio%20on%20Demand.mp3
+http://ingest.live365.com:8000/a35614_live
+
+#EXTINF:-1,Entry 3
+https://github.com/musicis3965/ridingretroradio/raw/master/offair2.mp3
