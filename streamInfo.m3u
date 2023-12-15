@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Entry 1
-http://ingest.live365.com:8000/a35614_live
+https://api.live365.com/play/a35614.m3u
 
 #EXTINF:-1,Entry 2
-http://ingest.live365.com:8000/a35614_live
+https://api.live365.com/play/a35614
 
 #EXTINF:-1,Entry 3
 https://github.com/musicis3965/ridingretroradio/raw/master/offair2.mp3
