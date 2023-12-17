@@ -3,7 +3,7 @@
 http://streaming.live365.com/a35614
 
 #EXTINF:-1,Entry 2
-https://api.live365.com/play/a35614
+http://ais-edge106-live365-dal02.cdnstream.com/a35614
 
 #EXTINF:-1,Entry 3
 https://github.com/musicis3965/ridingretroradio/raw/master/offair2.mp3
