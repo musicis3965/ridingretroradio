@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Entry 1
-https://api.live365.com/play/a35614.m3u
+http://streaming.live365.com/a35614
 
 #EXTINF:-1,Entry 2
 https://api.live365.com/play/a35614
