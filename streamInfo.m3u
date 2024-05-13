@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Entry 1
-http://streaming.live365.com/a35614
+http://34.16.201.31:8000/stream
 
 #EXTINF:-1,Entry 2
-http://ais-edge106-live365-dal02.cdnstream.com/a35614
+http://34.16.201.31:8000/stream
 
 #EXTINF:-1,Entry 3
 https://github.com/musicis3965/ridingretroradio/raw/master/offair2.mp3
