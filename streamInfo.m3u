@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Entry 1
-http://34.16.201.31:8000/stream
+http://34.125.39.196:8000/stream
 
 #EXTINF:-1,Entry 2
-http://34.16.201.31:8000/stream
+http://34.125.39.196:8000/stream
 
 #EXTINF:-1,Entry 3
 https://github.com/musicis3965/ridingretroradio/raw/master/offair3.mp3
